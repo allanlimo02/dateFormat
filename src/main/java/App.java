@@ -16,6 +16,6 @@ public class App {
             System.out.print(encodedFinal);
         }
 
-        System.out.println("Your encrypted name is  ");
+        System.out.println("Your encrypted name is  "+name);
     }
 }
